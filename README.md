@@ -1,2 +1,2 @@
-# my_kaggle
+# My kaggle
 kaggle challenge
